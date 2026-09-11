@@ -1,0 +1,48 @@
+[
+  {
+    "type": "Character",
+    "name": "Aria Veyne",
+    "role": "Former Guardian",
+    "faction": "Guardians of Eldoria",
+    "personality": "Intelligent, strategic and emotionally conflicted",
+    "history": "Aria betrayed the Guardians after discovering that the Council was hiding the truth about the Shadow Realm.",
+    "current_status": "Exiled from Eldoria"
+  },
+  {
+    "type": "Character",
+    "name": "Kael Draven",
+    "role": "Commander of the Guardians",
+    "faction": "Guardians of Eldoria",
+    "personality": "Loyal, disciplined and suspicious",
+    "relationship": "Kael was Aria's closest friend before her betrayal.",
+    "current_status": "Searching for Aria"
+  },
+  {
+    "type": "Location",
+    "name": "Shadow Realm",
+    "description": "A dangerous dimension connected to Eldoria through ancient portals.",
+    "important_fact": "Time behaves differently inside the Shadow Realm.",
+    "threat": "The realm is controlled by the Void King."
+  },
+  {
+    "type": "Faction",
+    "name": "Guardians of Eldoria",
+    "description": "An ancient organization responsible for protecting Eldoria.",
+    "important_rule": "Betrayal results in permanent exile.",
+    "leadership": "The Council of Eldoria"
+  },
+  {
+    "type": "Event",
+    "name": "The Great Betrayal",
+    "description": "Aria stole an ancient artifact from the Guardians and entered the Shadow Realm.",
+    "consequence": "The Guardians declared Aria an enemy of Eldoria.",
+    "important_detail": "Aria believed the artifact was necessary to stop the Void King."
+  },
+  {
+    "type": "Event",
+    "name": "The Shadow War",
+    "description": "The Guardians fought the Void King's forces near the Shadow Realm portal.",
+    "outcome": "The Guardians temporarily sealed the portal.",
+    "current_situation": "The portal is beginning to reopen."
+  }
+]
